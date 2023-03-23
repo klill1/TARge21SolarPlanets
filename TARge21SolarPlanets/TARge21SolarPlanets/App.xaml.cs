@@ -27,12 +27,7 @@ public partial class App : Application
 			WindowId windowId = Win32Interop.GetWindowIdFromWindow(windowHandle);
 			AppWindow appWindow = Microsoft.UI.Windowing.AppWindow.GetFromWindowId(windowId);
 			appWindow.Resize(new SizeInt32(WindowWidth, WindowHeight));
-
 		});
-		
-
-
-	
 #endif
         MainPage = new NavigationPage(new StartPage());
 	}
