@@ -12,4 +12,4 @@
 
 * Install nuGet:
 
-<PackageReference Include="Microsoft.UI.Xaml" Version="2.8.2" />
+Microsoft.UI.Xaml
