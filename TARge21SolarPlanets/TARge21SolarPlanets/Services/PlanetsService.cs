@@ -9,7 +9,7 @@ namespace Services
             new()
             {
                 Name = "Mercury",
-                Subtitle = "The smallest planet",
+                Subtitle = " The smallest planet",
                 HeroImage = "mercury.png",
                 Description = "Mercury is the smallest planet in the Solar System and the closest to the Sun. Its orbit around the Sun takes 87.97 Earth days, the shortest of all the Sun's planets. It is named after the Roman god Mercurius (Mercury), god of commerce, messenger of the gods, and mediator between gods and mortals, corresponding to the Greek god Hermes (Ἑρμῆς). Like Venus, Mercury orbits the Sun within Earth's orbit as an inferior planet; its apparent distance from the Sun as viewed from Earth never exceeds 28°.",
                 AccentColorStart = Color.FromArgb("#353535"),
@@ -30,5 +30,8 @@ namespace Services
 
             return randomizedPlanets.Take(2).ToList();
         }
+
+        public static List<Planet> GetAllPlanets()
+            => planets;
     }
 }

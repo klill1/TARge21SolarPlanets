@@ -77,4 +77,9 @@
         <Setter Property="TextColor" Value="{StaticResource LightTextColor}" />
     </Style>
 
+    <Style TargetType="Label" x:Key="AllPlanetHeaderStyle" BasedOn="{StaticResource BaseMediumLabelStyle}">
+        <Setter Property="FontSize" Value="18" />
+        <Setter Property="TextColor" Value="{StaticResource LightTextColor}" />
+    </Style>
+
 </ResourceDictionary>
