@@ -52,6 +52,7 @@
 	  <None Remove="Resources\Fonts\Montserrat-Bold.ttf" />
 	  <None Remove="Resources\Fonts\Montserrat-Medium.ttf" />
 	  <None Remove="Resources\Fonts\Montserrat-SemiBold.ttf" />
+	  <None Remove="Resources\Images\apipic.png" />
 	</ItemGroup>
 
 	<ItemGroup>
