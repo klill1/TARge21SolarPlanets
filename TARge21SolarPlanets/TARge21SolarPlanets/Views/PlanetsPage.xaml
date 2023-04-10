@@ -105,9 +105,9 @@
                     <RoundRectangle CornerRadius="28" />
                 </Border.StrokeShape>
 
-                <!--<Border.GestureRecognizers>
+                <Border.GestureRecognizers>
                     <TapGestureRecognizer Tapped="ApiPic_Clicked" />
-                </Border.GestureRecognizers>-->
+                </Border.GestureRecognizers>
 
                 <Image
                     VerticalOptions="Center"
