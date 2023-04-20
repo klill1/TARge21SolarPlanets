@@ -132,6 +132,86 @@
                     "https://solarsystem.nasa.gov/system/feature_items/images/86_carousel_neptune_5.jpg",
                     "https://solarsystem.nasa.gov/system/feature_items/images/84_neptune_carousel_2.jpg"
                 }
+            },
+
+            new()
+            {
+                Name = " Pluto",
+                Subtitle = "  The 11-year-old girl",
+                HeroImage = "pluto.png",
+                Description = "Pluto – which is smaller than Earth’s Moon – has a heart-shaped glacier that’s the size of Texas and Oklahoma. This fascinating world has blue skies, spinning moons, mountains as high as the Rockies, and it snows – but the snow is red.",
+                AccentColorStart = Color.FromArgb("#996237"),
+                AccentColorEnd = Color.FromArgb("#c6502f"),
+                Images = new()
+                {
+                    "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBam9GIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--41f1ace6d54260ea40a3ac78fa92e5d997c2dce5/pluto_natural_color_20150714_detail.jpg?disposition=attachment",
+                    "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3dGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1bb4e43c4ffeb97994ee48daf607bce47f0feb77/BIG_P_COLOR_2_TRUE_COLOR1_1980.jpg?disposition=attachment",
+                    "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcW9EIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d5087fb20ec2bc8144e2d350121c5ee652109a05/PIA20732_800w.jpg?disposition=attachment"
+                }
+            },
+
+            new()
+            {
+                Name = " Ceres",
+                Subtitle = "  An asteroid",
+                HeroImage = "ceres.webp",
+                Description = "Dwarf planet Ceres is the largest object in the asteroid belt between Mars and Jupiter, and it's the only dwarf planet located in the inner solar system. It was the first member of the asteroid belt to be discovered when Giuseppe Piazzi spotted it in 1801.",
+                AccentColorStart = Color.FromArgb("#353535"),
+                AccentColorEnd = Color.FromArgb("#8d9098"),
+                Images = new()
+                {
+                    "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEFHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7703bedd2b3f6bdc3620d2f14f2028a6a1c4a101/PIA22660_hires.jpg?disposition=attachment",
+                    "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e1ba19d37ddff74f0b44a1061e61b7314a430c73/PIA22480_hires.jpg?disposition=attachment",
+                    "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGdHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--990220a08156cb5c1f0f992afaba2522e52fd447/PIA22641_hires.jpg?disposition=attachment"
+                }
+            },
+
+            new()
+            {
+                Name = " Makemake",
+                Subtitle = "  The Rapanui god",
+                HeroImage = "makemake.png",
+                Description = "Along with fellow dwarf planets Pluto, Eris, and Haumea, Makemake is located in the Kuiper Belt, a donut-shaped region of icy bodies beyond the orbit of Neptune. Slightly smaller than Pluto, Makemake is the second-brightest object in the Kuiper Belt as seen from Earth (while Pluto is the brightest). It takes about 305 Earth years for this dwarf planet to make one trip around the Sun.",
+                AccentColorStart = Color.FromArgb("#a6393b"),
+                AccentColorEnd = Color.FromArgb("#d17f21"),
+                Images = new()
+                {
+                    "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzV5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--da442d80baf68beeb51823768c33f9342cd45ec1/makemake_480x320.jpg?disposition=inline",
+                    "https://cdn.arstechnica.net/wp-content/uploads/2012/11/makemake_small.jpg",
+                    "https://cdn.mos.cms.futurecdn.net/8QBGiy9BhmttKdGeAAZpn8-970-80.jpg.webp"
+                }
+            },
+
+            new()
+            {
+                Name = " Haumea",
+                Subtitle = "  The Hawaiian goddess",
+                HeroImage = "haumea.webp",
+                Description = "Haumea is roughly the same size as Pluto. It is one of the fastest rotating large objects in our solar system. The fast spin distorts Haumea's shape, making this dwarf planet look like a football.",
+                AccentColorStart = Color.FromArgb("#9d4a40"),
+                AccentColorEnd = Color.FromArgb("#996237"),
+                Images = new()
+                {
+                    "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEJ5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cbc291b6d9659fbccebd845aae501d9f81f89e3c/haumea_480x320.jpg?disposition=inline",
+                    "https://static.wikia.nocookie.net/cell-to-singularity-evolution/images/2/2d/Haumea.png/revision/latest?cb=20220210150731",
+                    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Haumea_Hubble.png/220px-Haumea_Hubble.png"
+                }
+            },
+
+            new()
+            {
+                Name = " Eris",
+                Subtitle = "  The ancient Greek goddess",
+                HeroImage = "eris.png",
+                Description = "Eris is one of the largest known dwarf planets in our solar system. It's about the same size as Pluto but is three times farther from the Sun. At first, Eris appeared to be larger than Pluto. This triggered a debate in the scientific community that led to the International Astronomical Union's decision in 2006 to clarify the definition of a planet. Pluto, Eris, and other similar objects are now classified as dwarf planets.",
+                AccentColorStart = Color.FromArgb("#353535"),
+                AccentColorEnd = Color.FromArgb("#8d9098"),
+                Images = new()
+                {
+                    "https://solarsystem.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEp5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9ec8b506c10e87c2469d585ed32148e65b53b174/eris_480x320.jpg?disposition=inline",
+                    "https://cdn.mos.cms.futurecdn.net/ufTfK2rbpQXZBjt2ZPsm57-970-80.jpg.webp",
+                    "https://theplanets.org/123/2021/10/Eris-Facts.png"
+                }
             }
         };
 
