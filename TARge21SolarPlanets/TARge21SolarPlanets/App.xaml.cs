@@ -9,8 +9,8 @@ namespace TARge21SolarPlanets;
 
 public partial class App : Application
 {
-    const int WindowWidth = 540;
-    const int WindowHeight = 1200;
+	const int WindowWidth = 750;
+    const int WindowHeight = 1500;
     public App()
 	{
 		InitializeComponent();

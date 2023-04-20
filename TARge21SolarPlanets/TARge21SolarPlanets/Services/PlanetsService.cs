@@ -154,7 +154,7 @@
             {
                 Name = " Ceres",
                 Subtitle = "  An asteroid",
-                HeroImage = "ceres.webp",
+                HeroImage = "ceres.png",
                 Description = "Dwarf planet Ceres is the largest object in the asteroid belt between Mars and Jupiter, and it's the only dwarf planet located in the inner solar system. It was the first member of the asteroid belt to be discovered when Giuseppe Piazzi spotted it in 1801.",
                 AccentColorStart = Color.FromArgb("#353535"),
                 AccentColorEnd = Color.FromArgb("#8d9098"),
@@ -186,7 +186,7 @@
             {
                 Name = " Haumea",
                 Subtitle = "  The Hawaiian goddess",
-                HeroImage = "haumea.webp",
+                HeroImage = "haumea.png",
                 Description = "Haumea is roughly the same size as Pluto. It is one of the fastest rotating large objects in our solar system. The fast spin distorts Haumea's shape, making this dwarf planet look like a football.",
                 AccentColorStart = Color.FromArgb("#9d4a40"),
                 AccentColorEnd = Color.FromArgb("#996237"),
