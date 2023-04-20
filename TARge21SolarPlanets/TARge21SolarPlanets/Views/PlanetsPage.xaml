@@ -140,7 +140,7 @@
                     <!--Search box-->
                     <Border
                         Padding="12,4"
-                        BackgroundColor="#33CCCC"
+                        BackgroundColor="#33CCCCCC"
                         Stroke="{StaticResource BorderColor}"
                         HorizontalOptions="Fill"
                         Margin="0,0,24,0"
